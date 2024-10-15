@@ -5,7 +5,7 @@ A request of tech company **Service Spot**, seeks to improve their service quali
 
 ___
 
-This project consists of Data Wharehouse and Use cases with SQL query and Power BI Visualization of data
+This project consists of Data Wharehouse and Use Cases with SQL query and Power BI visualization data
 
 [The Project Report](https://github.com/Evank2023/School_Project_ETL_and_DataWharehouse/blob/master/Repport.docx)
 
