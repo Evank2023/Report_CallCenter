@@ -1,11 +1,11 @@
 
 # Service Spot
 
-A request of tech company **Service Spot**, seeks to improve their service quality and learn how to deploy their data.
+#### A request of tech company **Service Spot**, seeks to improve their service quality and learn how to deploy their data.
 
 ___
 
-his project consists of a Data Warehouse and use cases with SQL queries and Power BI data visualizations.
+#### This project consists of a Data Warehouse and use cases with SQL queries and Power BI data visualizations.
 
 [The Project Report](https://github.com/Evank2023/School_Project_ETL_and_DataWharehouse/blob/master/Repport.docx) : You wil find all the details of project
 
