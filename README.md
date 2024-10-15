@@ -7,13 +7,8 @@ ___
 
 This project consists of Data Wharehouse and Use Cases with SQL query and Power BI visualization data
 
-[The Project Report](https://github.com/Evank2023/School_Project_ETL_and_DataWharehouse/blob/master/Repport.docx)
+[The Project Report](https://github.com/Evank2023/School_Project_ETL_and_DataWharehouse/blob/master/Repport.docx) : You wil find all the detail of project
 
-You wil find all the detail of project
+[Git Repository](https://github.com/Evank2023/School_Project_ETL_and_DataWharehouse/tree/Repository) : I coloned repository what I worked with my team
 
-[Git Repository](https://github.com/Evank2023/School_Project_ETL_and_DataWharehouse/tree/Repository)
-
-I coloned repository what I worked with my team
-
-[Data Source](https://github.com/Evank2023/School_Project_ETL_and_DataWharehouse/tree/Data)
-The flats data
+[Data Source](https://github.com/Evank2023/School_Project_ETL_and_DataWharehouse/tree/Data) : Flats files
