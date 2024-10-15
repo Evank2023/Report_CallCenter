@@ -5,10 +5,10 @@ A request of tech company **Service Spot**, seeks to improve their service quali
 
 ___
 
-This project consists of Data Wharehouse and Use Cases with SQL query and Power BI visualization data
+his project consists of a Data Warehouse and use cases with SQL queries and Power BI data visualizations.
 
-[The Project Report](https://github.com/Evank2023/School_Project_ETL_and_DataWharehouse/blob/master/Repport.docx) : You wil find all the detail of project
+[The Project Report](https://github.com/Evank2023/School_Project_ETL_and_DataWharehouse/blob/master/Repport.docx) : You wil find all the details of project
 
-[Git Repository](https://github.com/Evank2023/School_Project_ETL_and_DataWharehouse/tree/Repository) : I coloned repository what I worked with my team
+[Git Repository](https://github.com/Evank2023/School_Project_ETL_and_DataWharehouse/tree/Repository) : I cloned the repository that I worked on with my team.
 
-[Data Source](https://github.com/Evank2023/School_Project_ETL_and_DataWharehouse/tree/Data) : Flats files
+[Data Source](https://github.com/Evank2023/School_Project_ETL_and_DataWharehouse/tree/Data) : Flat files
